@@ -1,0 +1,67 @@
+body {
+  font-family: "Roboto";
+  color: #2e2f42;
+  font-size: 1.5;
+  letter-spacing: 0.02em;
+}
+
+/* Logo */
+.logo-web {
+  color: var(--IRIS, #4d5ae5);
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.logo-studio {
+  color: var(--NAVY-BLUE, #2e2f42);
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+
+/* Nav */
+.link {
+  color: var(--NAVY-BLUE, #2e2f42);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5px; 
+  letter-spacing: 0.32px;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #404bbf;
+}
+
+.link:focus {
+  color: #404bbf;
+  text-decoration: underline;
+}
+
+/* Address */
+
+.link-address {
+  color: var(--SLATE, #434455);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+  text-decoration: none;
+}
+
+.link-address:hover {
+    color: var(--OCEAN, #404BBF);
+}
+
